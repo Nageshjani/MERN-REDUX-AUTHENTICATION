@@ -1,0 +1,48 @@
+# MERN STACK- E-COMMERCE 
+> MERN STACK , REACT CONTEXT API FOR STATE MANAGEMENT 
+
+## DEMO: https://mern-authentication-full.herokuapp.com/
+
+
+
+
+## INSTALL DEPENDENCIES FOR SERVER 
+### `npm install`
+
+## INSTALL DEPENDENCIES FOR CLIENT
+### cd client ---> `npm install`
+
+## CONNECT TO YOUR MONGODB AND ADD INFO IN .env
+
+
+## RUN THE CLIENT & SERVER WITH CONCURRENTLY
+### `npm run dev`
+
+## RUN THE EXPRESS SERVER ONLY
+### `npm run server`
+
+## RUN THE REACT CLIENT ONLY
+### `npm run client`
+
+### SERVER RUNS ON http://localhost:4955 and client on http://localhost:3000
+
+### User interface 
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649753739/Screenshot_41_ukhnau.png)
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649753835/Screenshot_42_qk6f0v.png)
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649753942/Screenshot_43_ywdm0l.png)
+
+
+
+
+### Admin interface 
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754031/Screenshot_45_wjbymu.png)
+
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754106/Screenshot_46_piaaar.png)
+
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649746238/UI/Screenshot_22_cgaopo.png)
