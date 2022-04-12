@@ -26,9 +26,11 @@
 
 ### SERVER RUNS ON http://localhost:4955 and client on http://localhost:3000
 
-### User interface 
+### User interface  
 
 ![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754196/Screenshot_47_vscgdj.png)
+
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754395/Screenshot_49_ps9msk.png)
 
 ![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754258/Screenshot_48_pbgd4l.png)
 
