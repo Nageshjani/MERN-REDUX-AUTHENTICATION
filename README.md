@@ -45,4 +45,3 @@
 ![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754106/Screenshot_46_piaaar.png)
 
 
-![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649746238/UI/Screenshot_22_cgaopo.png)
