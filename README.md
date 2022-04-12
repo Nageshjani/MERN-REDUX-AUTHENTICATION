@@ -28,9 +28,9 @@
 
 ### User interface 
 
-![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649753739/Screenshot_41_ukhnau.png)
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754196/Screenshot_47_vscgdj.png)
 
-![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649753835/Screenshot_42_qk6f0v.png)
+![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649754258/Screenshot_48_pbgd4l.png)
 
 ![alt](https://res.cloudinary.com/dhruvforall/image/upload/v1649753942/Screenshot_43_ywdm0l.png)
 
